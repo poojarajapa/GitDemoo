@@ -9,6 +9,8 @@ public class SeleniumTest {
 	public void BrowserAction()
 	{
 		System.out.println("broseraction");
+		System.out.println("gjhgj");
+		System.out.println("lpoo");
 	}
 	
 	
